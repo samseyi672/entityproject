@@ -1,0 +1,32 @@
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.deps.json
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.runtimeconfig.json
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.runtimeconfig.dev.json
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.dll
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.pdb
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\Retailbanking.Common.dll
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\Retailbanking.Common.pdb
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.csproj.AssemblyReference.cache
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.AssemblyInfoInputs.cache
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.AssemblyInfo.cs
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.csproj.CoreCompileInputs.cache
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.csproj.CopyComplete
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.dll
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.pdb
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.genruntimeconfig.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.deps.json
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.runtimeconfig.json
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.runtimeconfig.dev.json
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.dll
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\EntityProject.pdb
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\Retailbanking.Common.dll
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\bin\Release\netcoreapp3.1\Retailbanking.Common.pdb
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.csproj.AssemblyReference.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.AssemblyInfoInputs.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.AssemblyInfo.cs
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.csproj.CoreCompileInputs.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.csproj.CopyComplete
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.dll
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.pdb
+C:\TrustBanc And Other files\dotapps\Retailbanking\EntityProject\obj\Release\netcoreapp3.1\EntityProject.genruntimeconfig.cache
